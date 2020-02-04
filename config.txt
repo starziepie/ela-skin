@@ -1,0 +1,7 @@
+plugin=ElaSkin
+author=Carlos Eduardo/Kai Malcolm
+email=if.velocity23@gmail.com
+version=1.1
+published=28/11/2019
+license=MIT
+link=https://github.com/carlosmfreitas2409/ElaSkin-2.0
